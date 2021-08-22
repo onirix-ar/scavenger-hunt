@@ -13,9 +13,9 @@ Game mechanics are simple. Users will be encouraged to look for hidden pictures 
 
 You can test the experience by scanning the embedded QR Code of any of the following game pictures:
 
-- [Blue coin]() - 125 pts
-- [Red coin]() - 250 pts
-- [Gold coin]() - 500 pts
+- [Blue coin](https://scavenger-hunt.onirix.com/sh-blue.png) - 125 pts
+- [Red coin](https://scavenger-hunt.onirix.com/sh-red.png) - 250 pts
+- [Gold coin](https://scavenger-hunt.onirix.com/sh-gold.png) - 500 pts
 
 ## Develop you own
 
@@ -45,7 +45,7 @@ After that, the camera will show up and a coin will appear once a game image is 
 
 The coin that is rendered depends on the parameters sent in the URL. You can tweak coin points and colors from *constants.ts* file. 
 
-This component, uses a 3D library (three.js), combined with **Onirix Web AR SDK** to create the AR experience. For more information, see https://docs.onirix.com/onirix-sdk/web-ar:
+This component, uses a 3D library (three.js), combined with **Onirix Web AR SDK** to create the AR experience. For more information, see https://docs.onirix.com/onirix-sdk/web-ar.
 
 ### Register Component
 
