@@ -9,6 +9,10 @@ Game mechanics are simple. Users will be encouraged to look for hidden pictures 
 3. Once the marker is detected, a 3D coin will be shown.
 4. Tapping on the coin will catch it and increase the score.
 
+## Preview
+
+[![preview video](https://img.youtube.com/vi/vtFYV-3ONxo/0.jpg)](https://www.youtube.com/watch?v=vtFYV-3ONxo "Onirix Scavenger Hunt")
+
 ## Test it!
 
 You can test the experience by scanning the embedded QR Code of any of the following game pictures:

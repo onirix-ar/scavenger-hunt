@@ -46,8 +46,4 @@ export class ScoreComponent implements OnInit {
     }
   }
 
-  playAgain() {
-    this.router.navigate(['/game', this.coinId]);
-  }
-
 }
